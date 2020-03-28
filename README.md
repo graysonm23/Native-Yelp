@@ -1,7 +1,8 @@
 # Yelp Look-A-Like Using React-Native
 
 ## Deployment
-  No deployment for this application. This was just made for testing purposes. This is my first React-Native Application.
+  No deployment for this application. This was just made for testing purposes. This is my first React-Native Application. However, below is a photo of the app.
+
 
 ## How Was It Made
   Utilizing the Yelp API, I was able to gather information from an axios call. Thereafter, I used that information and built Parent and Child components to render the information on the screen. The App utilizes a nice "V" like modularization, just like, "MVC" (Model View Controller).
