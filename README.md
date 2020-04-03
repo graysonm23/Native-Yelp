@@ -6,7 +6,7 @@
 <img height="300px" width="150px" src="https://user-images.githubusercontent.com/52672474/77812523-d080bc80-706f-11ea-969f-fcd6abc5edf3.jpg">
 
 ## How Was It Made
-  Utilizing the Yelp API, I was able to gather information from an axios call. Thereafter, I used that information and built Parent and Child components to render the information on the screen. The App utilizes a nice "V" like modularization, just like, "MVC" (Model View Controller).
+  Utilizing the Yelp API, I was able to gather information from an axios call. Thereafter, I used that information and built Parent and Child components to render the information on the screen. The App utilizes a nice "V" like modularization, just like the "MVC" (Model View Controller) model.
   
 ## User Interaction 
   User can search what type of food they are thinking of having. It will then give a few restaurants and seperate them into how much they cost. Also, shows how mmay stars they have and the amount of reviews that reviews effecting their star count.
